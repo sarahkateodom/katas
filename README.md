@@ -1,15 +1,15 @@
 ## katas
 
-###[KataPacMan] (http://codingdojo.org/kata/PacMan/)
+### [KataPacMan] (http://codingdojo.org/kata/PacMan/)
 
 >Pacman finds himself in a grid filled with monsters. Will he be able to eat all the dots on the board before the monsters eat him?
 
 
-###[KataTennis] (http://codingdojo.org/kata/Tennis/)
+### [KataTennis] (http://codingdojo.org/kata/Tennis/)
 
 >Simplified tennis so that each set is one game.
 
-###[Bowling](http://codingdojo.org/kata/Bowling/)
+### [Bowling](http://codingdojo.org/kata/Bowling/)
 
 >Given a valid sequence of rolls for one line of American Ten-Pin Bowling, produces the total score for the game.
 
@@ -27,6 +27,6 @@
 8. More than 10 elements can be Add()-ed.
 
 
-###[FizzBuzz](http://codingdojo.org/kata/FizzBuzz/)
+### [FizzBuzz](http://codingdojo.org/kata/FizzBuzz/)
 
 >Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz “.
