@@ -1,11 +1,11 @@
 ## katas
 
-### [KataPacMan] (http://codingdojo.org/kata/PacMan/)
+### [KataPacMan](http://codingdojo.org/kata/PacMan/)
 
 >Pacman finds himself in a grid filled with monsters. Will he be able to eat all the dots on the board before the monsters eat him?
 
 
-### [KataTennis] (http://codingdojo.org/kata/Tennis/)
+### [KataTennis](http://codingdojo.org/kata/Tennis/)
 
 >Simplified tennis so that each set is one game.
 
